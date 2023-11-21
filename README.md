@@ -8,11 +8,11 @@
   Players who play the game get on a pirate ship and attack another pirate ship. Also, monsters of the sea, as well as other pirate ships, attack the pirate ship   that the player is on, and the player must attack the monster to avoid it.
 
 3. Explanation
-  - (1) Color Concept
+  - (1) Color Concept : 
     The game will be played in the sea, so most of the backgrounds will be set in blue, the index of the sea.
-  - (2) Enemy
+  - (2) Enemy : 
     The Kraken and other pirate ships are the opposing team attacking players in this game.
-  - (3) Item
+  - (3) Item : 
     The default attack is to shoot arrows, and from the time a player acquires a cannon icon during the game, a strengthened cannon will emerge from the pirate         ship.
-  - (4) Ending
+  - (4) Ending : 
     If you take down all the enemies, you find the treasure of the sea, and the game ends
